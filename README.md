@@ -1,2 +1,2 @@
 # bizz-ideas
-business ideas generator
+business ideas generator to be used in streamlit 
